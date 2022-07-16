@@ -1,0 +1,15 @@
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance-exercise2\inheritance-exercise2\bin\Debug\net6.0\inheritance-exercise2.exe
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance-exercise2\inheritance-exercise2\bin\Debug\net6.0\inheritance-exercise2.deps.json
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance-exercise2\inheritance-exercise2\bin\Debug\net6.0\inheritance-exercise2.runtimeconfig.json
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance-exercise2\inheritance-exercise2\bin\Debug\net6.0\inheritance-exercise2.dll
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance-exercise2\inheritance-exercise2\bin\Debug\net6.0\inheritance-exercise2.pdb
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance-exercise2\inheritance-exercise2\obj\Debug\net6.0\inheritance-exercise2.csproj.AssemblyReference.cache
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance-exercise2\inheritance-exercise2\obj\Debug\net6.0\inheritance-exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance-exercise2\inheritance-exercise2\obj\Debug\net6.0\inheritance-exercise2.AssemblyInfoInputs.cache
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance-exercise2\inheritance-exercise2\obj\Debug\net6.0\inheritance-exercise2.AssemblyInfo.cs
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance-exercise2\inheritance-exercise2\obj\Debug\net6.0\inheritance-exercise2.csproj.CoreCompileInputs.cache
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance-exercise2\inheritance-exercise2\obj\Debug\net6.0\inheritance-exercise2.dll
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance-exercise2\inheritance-exercise2\obj\Debug\net6.0\refint\inheritance-exercise2.dll
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance-exercise2\inheritance-exercise2\obj\Debug\net6.0\inheritance-exercise2.pdb
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance-exercise2\inheritance-exercise2\obj\Debug\net6.0\inheritance-exercise2.genruntimeconfig.cache
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance-exercise2\inheritance-exercise2\obj\Debug\net6.0\ref\inheritance-exercise2.dll

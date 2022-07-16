@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DOIRyDTGmegmACgCZOyMDKmEM/0gfkAU3mm54G4hCHPYNWa4lnzfobPenUWq6RPE1dERRFAsUlsRw/M54BbQ8g==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\Udemy\\C# COMPLETO Programação Orientada a Objetos + Projetos\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc-ga\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

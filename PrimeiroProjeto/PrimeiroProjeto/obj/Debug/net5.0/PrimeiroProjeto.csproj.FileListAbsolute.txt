@@ -1,0 +1,16 @@
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.exe
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.deps.json
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.runtimeconfig.json
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.runtimeconfig.dev.json
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.dll
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.pdb
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.csproj.AssemblyReference.cache
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.dll
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\refint\PrimeiroProjeto.dll
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.pdb
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.genruntimeconfig.cache
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\ref\PrimeiroProjeto.dll

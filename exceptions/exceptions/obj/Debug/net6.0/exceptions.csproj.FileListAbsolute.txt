@@ -1,0 +1,15 @@
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\exceptions\exceptions\bin\Debug\net6.0\exceptions.exe
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\exceptions\exceptions\bin\Debug\net6.0\exceptions.deps.json
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\exceptions\exceptions\bin\Debug\net6.0\exceptions.runtimeconfig.json
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\exceptions\exceptions\bin\Debug\net6.0\exceptions.dll
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\exceptions\exceptions\bin\Debug\net6.0\exceptions.pdb
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\exceptions\exceptions\obj\Debug\net6.0\exceptions.csproj.AssemblyReference.cache
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\exceptions\exceptions\obj\Debug\net6.0\exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\exceptions\exceptions\obj\Debug\net6.0\exceptions.AssemblyInfoInputs.cache
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\exceptions\exceptions\obj\Debug\net6.0\exceptions.AssemblyInfo.cs
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\exceptions\exceptions\obj\Debug\net6.0\exceptions.csproj.CoreCompileInputs.cache
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\exceptions\exceptions\obj\Debug\net6.0\exceptions.dll
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\exceptions\exceptions\obj\Debug\net6.0\refint\exceptions.dll
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\exceptions\exceptions\obj\Debug\net6.0\exceptions.pdb
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\exceptions\exceptions\obj\Debug\net6.0\exceptions.genruntimeconfig.cache
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\exceptions\exceptions\obj\Debug\net6.0\ref\exceptions.dll

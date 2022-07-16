@@ -1,0 +1,15 @@
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\composition2\composition2\obj\Debug\net6.0\composition2.csproj.AssemblyReference.cache
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\composition2\composition2\obj\Debug\net6.0\composition2.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\composition2\composition2\obj\Debug\net6.0\composition2.AssemblyInfoInputs.cache
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\composition2\composition2\obj\Debug\net6.0\composition2.AssemblyInfo.cs
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\composition2\composition2\obj\Debug\net6.0\composition2.csproj.CoreCompileInputs.cache
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\composition2\composition2\bin\Debug\net6.0\composition2.exe
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\composition2\composition2\bin\Debug\net6.0\composition2.deps.json
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\composition2\composition2\bin\Debug\net6.0\composition2.runtimeconfig.json
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\composition2\composition2\bin\Debug\net6.0\composition2.dll
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\composition2\composition2\bin\Debug\net6.0\composition2.pdb
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\composition2\composition2\obj\Debug\net6.0\composition2.dll
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\composition2\composition2\obj\Debug\net6.0\refint\composition2.dll
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\composition2\composition2\obj\Debug\net6.0\composition2.pdb
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\composition2\composition2\obj\Debug\net6.0\composition2.genruntimeconfig.cache
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\composition2\composition2\obj\Debug\net6.0\ref\composition2.dll

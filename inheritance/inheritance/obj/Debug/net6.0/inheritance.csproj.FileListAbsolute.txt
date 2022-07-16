@@ -1,0 +1,15 @@
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance\inheritance\obj\Debug\net6.0\inheritance.csproj.AssemblyReference.cache
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance\inheritance\obj\Debug\net6.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfoInputs.cache
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfo.cs
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance\inheritance\obj\Debug\net6.0\inheritance.csproj.CoreCompileInputs.cache
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance\inheritance\bin\Debug\net6.0\inheritance.exe
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance\inheritance\bin\Debug\net6.0\inheritance.deps.json
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance\inheritance\bin\Debug\net6.0\inheritance.runtimeconfig.json
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance\inheritance\bin\Debug\net6.0\inheritance.dll
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance\inheritance\bin\Debug\net6.0\inheritance.pdb
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance\inheritance\obj\Debug\net6.0\inheritance.dll
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance\inheritance\obj\Debug\net6.0\refint\inheritance.dll
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance\inheritance\obj\Debug\net6.0\inheritance.pdb
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance\inheritance\obj\Debug\net6.0\inheritance.genruntimeconfig.cache
+C:\workspace\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercises\inheritance\inheritance\obj\Debug\net6.0\ref\inheritance.dll
